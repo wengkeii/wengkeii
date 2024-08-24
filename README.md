@@ -1,7 +1,17 @@
-## Hi there 👋
+## Hello World 👋
 
-<!--
-**wengkeii/wengkeii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+• My name is Weng Kei and I am studying Math & CS with a specialisation in data science in NTU. 
+
+• I am a data enthusiast with a passion for using data science and machine learning to solve real-world problems.
+
+## 🌱 Currently Learning 
+• Deepening my knowledge in neural networks
+
+• Exploring advanced data visualization techniques 
+
+
+<!--**wengkeii/wengkeii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
