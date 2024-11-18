@@ -1,26 +1,19 @@
-## Hello World 👋
+## Hello World 👋, I'm Weng Kei
+
+I'm a Math & Computer Science student at NTU, specializing in Data Science. I am passionate about leveraging data to solve real-world challenges.
 
 ## 🚀 About Me
-• My name is Weng Kei and I am studying Math & CS with a specialisation in data science in NTU. 
+### Currently Exploring
+- **Deep Learning**: Enhancing my skills in developing and applying neural networks.
+- **Data Viz**: Exploring innovative ways to visualize data for better insights.
 
-• I am a data enthusiast with a passion for using data science and machine learning to solve real-world problems.
+## 📚 Completed Projects
+- **GPS Anomaly Detection**: Using machine learning to identify unusual patterns in movement data.
+- **Customer Segmentation**: Employing K-means and DBSCAN for marketing insights.
+- **NBA Data Visualization**: Analyze and visualize NBA game data to uncover patterns and insights about team performances and player statistics.
 
-## 🌱 Currently Learning 
-• Deepening my knowledge in neural networks
+## 🔭 Current Projects
+- **Predictive Modeling for Movie Revenues**: Using NLP and Computer Vision techniques to extract data from movie posters on TMDB to develop deep learning models to predict movie box office revenue.
 
-• Exploring advanced data visualization techniques 
-
-
-<!--**wengkeii/wengkeii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Fun Fact
+I'm also an avid basketball player and have represented my university in various inter-varsity games! 🏀
